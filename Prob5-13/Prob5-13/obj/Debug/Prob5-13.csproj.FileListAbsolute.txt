@@ -1,0 +1,7 @@
+C:\Users\h-mas\source\repos\Prob5-13\Prob5-13\bin\Debug\Prob5-13.exe.config
+C:\Users\h-mas\source\repos\Prob5-13\Prob5-13\bin\Debug\Prob5-13.exe
+C:\Users\h-mas\source\repos\Prob5-13\Prob5-13\bin\Debug\Prob5-13.pdb
+C:\Users\h-mas\source\repos\Prob5-13\Prob5-13\obj\Debug\Prob5-13.csprojResolveAssemblyReference.cache
+C:\Users\h-mas\source\repos\Prob5-13\Prob5-13\obj\Debug\Prob5-13.csproj.CoreCompileInputs.cache
+C:\Users\h-mas\source\repos\Prob5-13\Prob5-13\obj\Debug\Prob5-13.exe
+C:\Users\h-mas\source\repos\Prob5-13\Prob5-13\obj\Debug\Prob5-13.pdb
